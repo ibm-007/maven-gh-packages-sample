@@ -24,7 +24,7 @@
    <repository>
      <id>github</id>
      <name>GitHub ibrahim-example Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/example/maven-gh-packages-sample</url>
+     <url>https://maven.pkg.github.com/ibrahim-bkash/maven-gh-packages-sample</url>
    </repository>
 </distributionManagement>
   <build>
